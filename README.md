@@ -1,5 +1,13 @@
-# Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated vulnerability Detection 
-A curated list of papers, datasets, and resources on automated vulnerability detection (AVD)
+# Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated Vulnerability Detection 
+    
+<img src="imgs/avd1.webp" alt="AVD" width="250"/>
+
+New software vulnerabilities are being discovered in open-source and proprietary software at a rapid rate. 
+These vulnerabilities were previously detected through labour-intensive code reviews and security audits. 
+The dire need for more scalable and accurate solutions has spurred research in automated vulnerability discovery (AVD).
+Without human intervention, AVD enables scalable detection of vulnerabilities, facilitating further vulnerability analysis tasks such as exploitation and patching.
+
+The following is a curated list of research papers, datasets, and resources in the field of AVD.
 
 <!--The following papers satisfy the following criteria (as of September 2024):
 1. The paper proposes a novel software vulnerability detector 
@@ -231,3 +239,10 @@ A curated list of papers, datasets, and resources on automated vulnerability det
 * [SySeVR](https://github.com/SySeVR/SySeVR/tree/master/Program%20data) 
 * [VulDeePecker](https://github.com/CGCL-codes/VulDeePecker) 
 
+## Contributions
+To contribute with new papers and resources, please open an issue or make a PR.
+ 
+## Developed by
+The AI for Cyber Defence Research Center, The Alan Turing Institute
+
+<img src="imgs/aicd.png" alt="AICD" width="200"/>
