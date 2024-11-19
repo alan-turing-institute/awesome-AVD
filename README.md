@@ -1,4 +1,4 @@
-# Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated vulnerability Detection 
+# Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated Vulnerability Detection 
 A curated list of papers, datasets, and resources on automated vulnerability detection (AVD)
 
 <!--The following papers satisfy the following criteria (as of September 2024):
