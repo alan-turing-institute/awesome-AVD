@@ -4,7 +4,7 @@
 
 New software vulnerabilities are being discovered in open-source and proprietary software at a rapid rate. 
 These vulnerabilities were previously detected through labour-intensive code reviews and security audits. 
-The dire need for more scalable and accurate solutions has spurred research in automated vulnerability discovery (AVD).
+The dire need for more scalable and accurate solutions has spurred research in automated vulnerability detection (AVD).
 Without human intervention, AVD enables scalable detection of vulnerabilities, facilitating further vulnerability analysis tasks such as exploitation and patching.
 
 The following is a curated list of research papers, datasets, and resources in the field of AVD.
