@@ -1,11 +1,15 @@
 # Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated Vulnerability Detection 
-    
-<img src="imgs/avd1.webp" alt="AVD" width="250"/>
+
+<img src="imgs/avd1.webp" alt="AVD" width="250" style="display: block; margin: 0 auto"/>
 
 Automated vulnerability detection (AVD) is an emerging research field aiming to automatically detect security vulnerabilities in software without human intervention.
 Compared to previous labour-intensive approaches such as code reviews and security audits, accurate AVD solutions enable the scalable detection of vulnerabilities, which facilitates further vulnerability analysis tasks such as exploitation and patching.
 
-The following is a curated list of research papers, datasets, and resources in the field of AVD.
+The following is a curated list of research papers, datasets, and resources in the field of AVD. 
+
+## Contributions
+We aim to keep the list updated to the best of our abilities.
+To contribute with new papers and resources, please open an issue or make a PR.
 
 ## Table of Contents
 
@@ -233,8 +237,6 @@ The following is a curated list of research papers, datasets, and resources in t
 * [SySeVR](https://github.com/SySeVR/SySeVR/tree/master/Program%20data) 
 * [VulDeePecker](https://github.com/CGCL-codes/VulDeePecker) 
 
-## Contributions
-To contribute with new papers and resources, please open an issue or make a PR.
  
 ## Developed by
 The AI for Cyber Defence Research Center, The Alan Turing Institute
