@@ -2,16 +2,10 @@
     
 <img src="imgs/avd1.webp" alt="AVD" width="250"/>
 
-New software vulnerabilities are being discovered in open-source and proprietary software at a rapid rate. 
-These vulnerabilities were previously detected through labour-intensive code reviews and security audits. 
-The dire need for more scalable and accurate solutions has spurred research in automated vulnerability detection (AVD).
-Without human intervention, AVD enables scalable detection of vulnerabilities, facilitating further vulnerability analysis tasks such as exploitation and patching.
+Automated vulnerability detection (AVD) is an emerging research field aiming to automatically detect security vulnerabilities in software without human intervention.
+Compared to previous labour-intensive approaches such as code reviews and security audits, accurate AVD solutions enable the scalable detection of vulnerabilities, which facilitates further vulnerability analysis tasks such as exploitation and patching.
 
 The following is a curated list of research papers, datasets, and resources in the field of AVD.
-
-<!--The following papers satisfy the following criteria (as of September 2024):
-1. The paper proposes a novel software vulnerability detector 
-2. The paper has accumulated at least 5 citations per year-->
 
 ## Table of Contents
 
