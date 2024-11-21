@@ -244,4 +244,6 @@ To contribute with new papers and resources, please open an issue or make a PR.
 ## Developed by
 The AI for Cyber Defence Research Center, The Alan Turing Institute
 
+<p align="center">
 <img src="imgs/aicd.png" alt="AICD" width="200"/>
+</p>
