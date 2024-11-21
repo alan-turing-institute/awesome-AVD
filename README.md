@@ -1,6 +1,9 @@
 # Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated Vulnerability Detection 
 
-<img src="imgs/avd1.webp" alt="AVD" width="250" style="display: block; margin: 0 auto"/>
+<p align="center">
+	<img src="imgs/avd1.webp" alt="AVD" width="250"/>
+</p>
+
 
 Automated vulnerability detection (AVD) is an emerging research field aiming to automatically detect security vulnerabilities in software without human intervention.
 Compared to previous labour-intensive approaches such as code reviews and security audits, accurate AVD solutions enable the scalable detection of vulnerabilities, which facilitates further vulnerability analysis tasks such as exploitation and patching.
