@@ -1,10 +1,13 @@
-# Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Automated Vulnerability Detection 
 
-<p align="center">
-	<img src="imgs/avd1.webp" alt="AVD" width="250"/>
-</p>
+<p align="left">
+<a href=http://turing.ac.uk/aicd><img src="imgs/aicd.png" alt="AICD" width="200"/></a>
+</p></br>
 
 
+# Awesome Automated Vulnerability Detection 
+
+
+Welcome to the Automated vulnerability detection (AVD) repo, maintained by the [AI for Cyber Defence Research Center](https://turing.ac.uk/aicd) at the [Alan Turing Institute](https://turing.ac.uk).
 Automated vulnerability detection (AVD) is an emerging research field aiming to automatically detect security vulnerabilities in software without human intervention.
 Compared to previous labour-intensive approaches such as code reviews and security audits, accurate AVD solutions enable the scalable detection of vulnerabilities, which facilitates further vulnerability analysis tasks such as exploitation and patching.
 
@@ -12,7 +15,7 @@ The following is a curated list of research papers, datasets, and resources in t
 
 ## Contributions
 We aim to keep the list updated to the best of our abilities.
-To contribute with new papers and resources, please open an issue or make a PR.
+To contribute with new papers and resources, please [open an issue](https://github.com/AICD-Research-Centre/awesome-AVD/issues/new/choose) or [make a PR](https://github.com/AICD-Research-Centre/awesome-AVD/compare).
 
 ## Table of Contents
 
@@ -241,9 +244,4 @@ To contribute with new papers and resources, please open an issue or make a PR.
 * [VulDeePecker](https://github.com/CGCL-codes/VulDeePecker) 
 
  
-## Developed by
-The AI for Cyber Defence Research Center, The Alan Turing Institute
 
-<p align="center">
-<img src="imgs/aicd.png" alt="AICD" width="200"/>
-</p>
