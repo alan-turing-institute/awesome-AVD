@@ -15,7 +15,7 @@ The following is a curated list of research papers, datasets, and resources in t
 
 ## Contributions
 We aim to keep the list updated to the best of our abilities.
-To contribute with new papers and resources, please [open an issue](https://github.com/AICD-Research-Centre/awesome-AVD/issues/new/choose) or [make a PR](https://github.com/AICD-Research-Centre/awesome-AVD/compare).
+To contribute with new papers and resources, please [open an issue](https://github.com/alan-turing-institute/awesomeAVD/issues/new/choose) or make a PR.
 
 ## Table of Contents
 
